@@ -1,6 +1,6 @@
 body  {	
-	background-color: #cef2ac;
-	color: rgb(206,242,172);
+	background-color: #7faed1;
+	color: rgb(181, 41, 114);
 
 	font-family: "Montserrat", sans-serif;
 	margin: 0px;
@@ -26,7 +26,7 @@ p {
 }
 
 section {
-	background-color: #cef2ac;
+	background-color: #7faed1;
 	padding-top: 80px ;
 	padding-bottom: 80px;
 	display: flex;
@@ -39,7 +39,7 @@ section {
 
 
 .chamada {
-    background: rgb(206,242,172)
+    background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
