@@ -2,7 +2,7 @@ body  {
 	background-color: #7black1;
 	color: rgb(11, 0, 0);
 
-	font-family: "Montserrat", sans-serif;
+	font-family: "reed", sans-serif;
 	margin: 0px;
 }
 
@@ -26,9 +26,9 @@ p {
 }
 
 section {
-	background-color: #7faed1;
-	padding-top: 80px ;
-	padding-bottom: 80px;
+	background-color: #7black1;
+	padding-top: 160px ;
+	padding-bottom: 160px;
 	display: flex;
 	justify-content: center;
 }
